@@ -27,3 +27,10 @@ div {
         margin-left: 20px;
         margin-top: 20px;
 }
+
+.footer{
+    background-color: green;
+    height: 200px;
+    width:920px;
+    float:left;
+}
