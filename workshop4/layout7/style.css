@@ -1,0 +1,296 @@
+.container{
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    background-color: darkblue;
+    height:100px;
+    width:100%; 
+
+}
+
+.yellowbox1{
+    height:60px;
+        background-color: yellow;
+        width: 230px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        
+}
+.yellowbox2{
+    height:60px;
+        background-color: yellow;
+        width: 630px;
+        float:right;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-right: 20px;
+     
+}
+.content{
+    background-color: lime;
+    float:left;
+    height:500px;
+    width: 920px;
+   
+        
+}
+
+.subcontent{
+    background-color: red;
+    float: left;
+    height:500px;
+    width: 920px;
+}
+.yellowbox3{
+       height:100px;
+        background-color: yellow;
+        width: 880px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 5px; 
+}
+.yellowbox4{
+        height:330px;
+        background-color: yellow;
+        width: 273px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;   
+}
+.yellowbox5{
+        height:330px;
+        background-color: yellow;
+        width: 273px;
+        float:left;
+        margin-left: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+.yellowbox6{
+        height:330px;
+        background-color: yellow;
+        width: 273px;
+        float:left;
+        margin-left: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+.subcontent2{
+       background-color: darkblue;
+    float: left;
+    height:800px;
+    width: 920px;
+}
+.yellowbox7{
+        height:80px;
+        background-color: yellow;
+        width: 860px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 5px; 
+}
+.yellowbox8{
+            height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+.yellowbox9{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+.yellowbox10{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+.yellowbox11{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: auto;
+}
+.yellowbox12{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: auto;
+}
+.yellowbox13{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-right: auto;
+}
+.yellowbox14{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        margin-right: auto;
+}
+.yellowbox15{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        margin-right: auto;
+}
+.yellowbox16{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        margin-right: auto;
+}
+.yellowbox17{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        margin-right: auto;
+}
+.yellowbox18{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        margin-right: auto;
+}
+.yellowbox19{
+        height:200px;
+        background-color: yellow;
+        width: 200px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        margin-right: auto;
+}
+.subcontent3{
+       background-color: lime;
+    float: left;
+    height:800px;
+    width: 920px;
+}
+.yellowbox20{
+        height:80px;
+        background-color: yellow;
+        width: 860px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 5px; 
+}
+.yellowbox21{
+        height:650px;
+        background-color: yellow;
+        width: 273px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px; 
+}
+.yellowbox22{
+        height:650px;
+        background-color: yellow;
+        width: 273px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px; 
+}
+.yellowbox23{
+        height:650px;
+        background-color: yellow;
+        width: 273px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+}
+.subcontent4{
+       background-color: red;
+    float: left;
+    height:800px;
+    width: 920px;
+}
+.yellowbox24{
+        height:80px;
+        background-color: yellow;
+        width: 860px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 5px; 
+}
+.yellowbox25{
+        height:650px;
+        background-color: yellow;
+        width: 600px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px; 
+}
+.yellowbox26{
+        height:350px;
+        background-color: yellow;
+        width: 273px;
+        float:left;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px; 
+}
+.subcontent5{
+       background-color: darkblue;
+    float: left;
+    height:100px;
+    width: 920px;
+}
