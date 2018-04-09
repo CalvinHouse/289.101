@@ -1,4 +1,25 @@
-.img {
-    margin-left: 20px;
-    margin-top: 20px;
+a {
+    text-decoration: none;
+    color: inherit;
+    font-family: sans-serif
+    
+}
+
+header {
+   display: flex;
+   margin-top: 10px;
+}
+
+main .menu {
+    text-align: left;
+    margin-left: 33px;
+    font-size: 25px;
+}
+
+header .Image1 {
+    text-align: right;
+    margin-top: 40px;
+    margin-left: 300px;
+    width: 10px;
+    height: 10px;
 }
