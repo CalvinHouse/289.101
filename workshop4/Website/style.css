@@ -5,21 +5,34 @@ a {
     
 }
 
-header {
-   display: flex;
+.maintitle {
    margin-top: 10px;
+   font-size: 62px;
+   margin: 33px;
+   font-family: sans-serif;
 }
 
-main .menu {
+.menu {
     text-align: left;
-    margin-left: 33px;
-    font-size: 25px;
+    margin-left: 23px;
+    font-size: 35px;
 }
 
-header .Image1 {
+.Image1 {
     text-align: right;
+    margin-left: 750px;
+    width: 600px;
+    height: 5px;
     margin-top: 40px;
-    margin-left: 300px;
-    width: 10px;
-    height: 10px;
+
+}
+
+.backgroundimage1 {
+    background-image: url(Image_2.png);
+    background-size: 600px;
+    width: 600px;
+    height: 700px;
+    background-repeat: no-repeat;
+    resize: both;
+   
 }
