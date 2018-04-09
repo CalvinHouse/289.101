@@ -5,6 +5,13 @@ a {
     
 }
 
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+  
+}
+
 .maintitle {
    margin-top: 10px;
    font-size: 62px;
@@ -14,8 +21,11 @@ a {
 
 .menu {
     text-align: left;
-    margin-left: 23px;
-    font-size: 35px;
+    margin-left: 540px;
+    font-size: 20px;   
+    word-spacing: 50px;
+    margin-top: -80px
+        
 }
 
 .Image1 {
@@ -27,12 +37,37 @@ a {
 
 }
 
-.backgroundimage1 {
+.backgroundimage2 {
     background-image: url(Image_2.png);
-    background-size: 600px;
+    background-size: 550px;
     width: 600px;
     height: 700px;
     background-repeat: no-repeat;
     resize: both;
+    margin-top: -26px;
+    margin-left: -590px;
    
+}
+
+.tumblr {
+    margin-top: -630px;
+    opacity: 0.8;
+    margin-left: 33px;
+}
+
+.instagram {
+    margin-top: -530px;
+    opacity: 0.8;
+    margin-left: 33px;
+}
+
+.blackbox1 {
+        height:30px;
+        background-color: black;
+        width: 120%;
+        float:right;
+        opacity: 0.8;
+        margin-top: -80px;
+        margin-right: -20px
+        
 }
