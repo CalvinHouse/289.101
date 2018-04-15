@@ -21,7 +21,7 @@ a:hover {
 
 .menu {
     text-align: left;
-    margin-left: 560px;
+    margin-left: 585px;
     font-size: 16px;   
     word-spacing: 50px;
     margin-top: -75px;
@@ -52,7 +52,7 @@ a:hover {
 }
 
 .tumblr {
-    margin-top: -660px;
+    margin-top: -630px;
     opacity: 0.8;
     margin-left: 53px;
     
@@ -115,7 +115,7 @@ a:hover {
   width: 330px;
   opacity: 0;
   transition: .3s ease;
-  background-color: black;
+  background-color: white;
 }
 
 .container:hover .overlay {
@@ -123,7 +123,7 @@ a:hover {
 }
 
 .text {
-  color: white;
+  color: black;
   font-size: 17px;
   position: absolute;
   top: 50%;
@@ -159,7 +159,7 @@ a:hover {
   width: 330px;
   opacity: 0;
   transition: .3s ease;
-  background-color: black;
+  background-color: white;
 }
 
 .container2:hover .overlay2 {
@@ -167,7 +167,7 @@ a:hover {
 }
 
 .text2 {
-  color: white;
+  color: black;
   font-size: 17px;
   position: absolute;
   top: 50%;
@@ -203,7 +203,7 @@ a:hover {
   width: 330px;
   opacity: 0;
   transition: .3s ease;
-  background-color: black;
+  background-color: white;
   margin-left: -41px;
 }
 
@@ -212,7 +212,7 @@ a:hover {
 }
 
 .text3 {
-  color: white;
+  color: black;
   font-size: 17px;
   position: absolute;
   top: 50%;
@@ -259,7 +259,7 @@ a:hover {
   width: 330px;
   opacity: 0;
   transition: .3s ease;
-  background-color: black;
+  background-color: white;
   margin-top: 3px;
 }
 
@@ -268,7 +268,7 @@ a:hover {
 }
 
 .text4 {
-  color: white;
+  color: black;
   font-size: 17px;
   position: absolute;
   top: 50%;
@@ -288,4 +288,36 @@ a:hover {
    margin-top: 120px;
    
 }
+.aboutme2 {
+   font-size: 15px;
+   margin: 33px;
+   font-family: sans-serif;
+   color: black;
+   margin-left: 1095px;
+   margin-top: 20px;
+    font-weight: lighter
+   
+}
+.aboutme3 {
+   font-size: 15px;
+   margin: 33px;
+   font-family: sans-serif;
+   color: black;
+   margin-left: 1095px;
+   margin-top: 20px;
+    font-weight: lighter
+   
+}
+
+.aboutme4 {
+   font-size: 15px;
+   margin: 33px;
+   font-family: sans-serif;
+   color: black;
+   margin-left: 1095px;
+   margin-top: 20px;
+    font-weight: lighter
+   
+}
+
 
