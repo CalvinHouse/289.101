@@ -52,7 +52,7 @@ a:hover {
 }
 
 .tumblr {
-    margin-top: -630px;
+    margin-top: -660px;
     opacity: 0.8;
     margin-left: 53px;
     
@@ -90,7 +90,7 @@ a:hover {
 
 
 
-.container {
+.container6 {
   position:absolute;
   width: 330px;
   height: 590px;
@@ -285,7 +285,7 @@ a:hover {
    font-family: sans-serif;
    color: black;
    margin-left: 1095px;
-   margin-top: 120px;
+   margin-top: 60px;
    
 }
 .aboutme2 {
@@ -320,4 +320,30 @@ a:hover {
    
 }
 
+.image11 {
+  display: block;
+  margin-top: -600px;
+  margin-left: -105px;
+  
 
+}
+.image16 {
+  display: block;
+  margin-top: -40px;
+  margin-left: 955px;
+
+  
+
+}
+
+
+}
+
+.image18 {
+  display: block;
+  margin-top: 520px;
+  margin-left: 400px;
+
+  
+
+}
