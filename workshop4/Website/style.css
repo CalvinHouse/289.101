@@ -90,7 +90,7 @@ a:hover {
 
 
 
-.container6 {
+.container {
   position:absolute;
   width: 330px;
   height: 590px;
@@ -320,5 +320,8 @@ a:hover {
    
 }
 
-
+.image11 {
+        margin-top: -610px;
+        margin-left: -110px;
+}
 
